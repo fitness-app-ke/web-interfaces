@@ -1,0 +1,3 @@
+[submodule "elm-web/getting-started/app/elm-todomvc"]
+	path = elm-web/getting-started/app/elm-todomvc
+	url = https://github.com/evancz/elm-todomvc.git
